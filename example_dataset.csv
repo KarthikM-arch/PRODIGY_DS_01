@@ -1,0 +1,201 @@
+ID,Age,Gender,Income,Education,Marital_Status,Employment_Status
+1,56,Female,73484,PhD,Married,Employed
+2,46,Male,112989,Master,Single,Employed
+3,32,Female,66212,High School,Married,Unemployed
+4,60,Male,73525,Master,Married,Employed
+5,25,Male,77202,PhD,Married,Employed
+6,38,Male,62635,PhD,Married,Self-Employed
+7,56,Male,93208,Bachelor,Single,Employed
+8,36,Female,63828,High School,Single,Self-Employed
+9,40,Male,48711,Master,Divorced,Self-Employed
+10,28,Male,33420,PhD,Married,Self-Employed
+11,28,Male,30301,PhD,Divorced,Unemployed
+12,41,Female,75236,Master,Single,Unemployed
+13,53,Female,96235,Bachelor,Single,Unemployed
+14,57,Female,84240,PhD,Single,Self-Employed
+15,41,Female,95726,High School,Single,Unemployed
+16,20,Male,40492,PhD,Single,Unemployed
+17,39,Male,36102,High School,Single,Employed
+18,19,Female,80336,Master,Single,Unemployed
+19,41,Male,115314,High School,Married,Unemployed
+20,61,Male,56641,Master,Divorced,Self-Employed
+21,47,Male,64584,High School,Single,Self-Employed
+22,55,Female,62745,Master,Married,Self-Employed
+23,19,Female,53093,High School,Married,Self-Employed
+24,38,Male,96105,Bachelor,Divorced,Self-Employed
+25,50,Female,81885,High School,Single,Self-Employed
+26,29,Female,66631,High School,Divorced,Unemployed
+27,39,Female,102991,Bachelor,Single,Self-Employed
+28,61,Female,34014,PhD,Married,Self-Employed
+29,42,Female,41093,PhD,Married,Employed
+30,44,Male,48070,High School,Married,Unemployed
+31,59,Female,65777,Bachelor,Married,Unemployed
+32,45,Male,86958,High School,Divorced,Unemployed
+33,33,Male,112074,Master,Single,Self-Employed
+34,32,Female,40729,Master,Single,Self-Employed
+35,64,Male,75017,High School,Divorced,Self-Employed
+36,61,Male,96320,PhD,Single,Employed
+37,20,Male,57751,PhD,Married,Self-Employed
+38,54,Female,108069,High School,Single,Employed
+39,24,Female,84748,High School,Married,Unemployed
+40,38,Male,35801,Master,Divorced,Self-Employed
+41,26,Female,49190,PhD,Single,Employed
+42,56,Female,79689,High School,Divorced,Employed
+43,35,Female,80993,Master,Single,Self-Employed
+44,21,Female,59592,PhD,Married,Unemployed
+45,42,Male,40647,Bachelor,Divorced,Unemployed
+46,31,Male,38716,Master,Single,Unemployed
+47,26,Female,118891,PhD,Married,Employed
+48,43,Female,117545,PhD,Divorced,Employed
+49,19,Male,119912,Master,Divorced,Employed
+50,37,Male,100316,Bachelor,Single,Employed
+51,45,Female,32368,Master,Single,Unemployed
+52,64,Male,107575,PhD,Single,Self-Employed
+53,24,Female,36655,High School,Married,Employed
+54,61,Female,100031,High School,Single,Employed
+55,25,Male,106429,Master,Divorced,Unemployed
+56,64,Male,117922,PhD,Divorced,Self-Employed
+57,52,Female,85766,High School,Single,Self-Employed
+58,31,Female,43403,PhD,Single,Unemployed
+59,34,Male,62097,Master,Divorced,Unemployed
+60,53,Female,108657,High School,Married,Self-Employed
+61,57,Male,40966,PhD,Single,Employed
+62,21,Female,82921,High School,Single,Self-Employed
+63,19,Male,79726,Master,Divorced,Unemployed
+64,23,Male,80300,PhD,Single,Employed
+65,59,Male,52677,High School,Married,Employed
+66,21,Female,85609,Master,Divorced,Unemployed
+67,46,Female,86661,High School,Single,Unemployed
+68,35,Male,61024,High School,Divorced,Unemployed
+69,43,Female,100313,Bachelor,Single,Self-Employed
+70,61,Male,83006,Bachelor,Single,Self-Employed
+71,51,Male,45338,Master,Single,Employed
+72,27,Female,98027,Bachelor,Married,Unemployed
+73,53,Female,110135,Master,Married,Employed
+74,31,Male,49508,Bachelor,Divorced,Employed
+75,48,Female,33051,High School,Single,Employed
+76,32,Female,78747,Master,Single,Employed
+77,25,Male,117142,Master,Married,Unemployed
+78,31,Male,117235,High School,Single,Employed
+79,40,Female,84021,Master,Married,Unemployed
+80,57,Male,96412,Master,Single,Unemployed
+81,38,Male,88335,Bachelor,Divorced,Self-Employed
+82,33,Female,86179,Master,Single,Unemployed
+83,62,Male,62093,PhD,Single,Self-Employed
+84,35,Male,99678,High School,Married,Unemployed
+85,64,Female,110738,Bachelor,Single,Unemployed
+86,41,Female,69734,Bachelor,Single,Unemployed
+87,43,Male,102615,PhD,Married,Self-Employed
+88,42,Male,103523,High School,Divorced,Self-Employed
+89,62,Female,47019,High School,Divorced,Employed
+90,58,Female,113613,Bachelor,Married,Self-Employed
+91,46,Female,116672,Master,Married,Self-Employed
+92,32,Female,103847,Bachelor,Married,Self-Employed
+93,62,Male,112750,High School,Married,Self-Employed
+94,18,Female,109634,PhD,Married,Employed
+95,42,Female,58251,Bachelor,Divorced,Self-Employed
+96,24,Male,55945,High School,Divorced,Unemployed
+97,26,Female,62217,Bachelor,Married,Unemployed
+98,41,Male,38308,Master,Single,Self-Employed
+99,18,Female,35949,Bachelor,Married,Self-Employed
+100,61,Female,81990,Bachelor,Single,Unemployed
+101,25,Female,31150,High School,Married,Unemployed
+102,41,Male,119480,High School,Married,Employed
+103,28,Male,104740,High School,Divorced,Unemployed
+104,34,Female,96617,Bachelor,Single,Unemployed
+105,25,Male,46896,Master,Single,Self-Employed
+106,52,Male,76175,PhD,Divorced,Unemployed
+107,52,Male,37805,PhD,Divorced,Employed
+108,50,Male,35237,High School,Divorced,Unemployed
+109,22,Male,50056,High School,Divorced,Self-Employed
+110,59,Male,75543,Bachelor,Single,Self-Employed
+111,56,Female,86556,PhD,Single,Unemployed
+112,58,Female,33343,High School,Married,Self-Employed
+113,45,Male,43500,Master,Married,Employed
+114,24,Female,83222,Master,Divorced,Employed
+115,26,Female,59375,High School,Divorced,Unemployed
+116,25,Female,39662,High School,Divorced,Unemployed
+117,29,Female,46964,PhD,Married,Unemployed
+118,51,Male,89638,PhD,Married,Self-Employed
+119,50,Female,103666,Bachelor,Married,Employed
+120,40,Female,115067,PhD,Married,Employed
+121,41,Male,97215,Master,Married,Self-Employed
+122,54,Male,99042,Master,Married,Employed
+123,52,Female,43284,High School,Married,Unemployed
+124,61,Female,102789,PhD,Divorced,Unemployed
+125,57,Female,114664,Bachelor,Divorced,Unemployed
+126,39,Female,91389,Master,Divorced,Employed
+127,44,Female,39435,Master,Divorced,Unemployed
+128,52,Female,84340,Bachelor,Married,Self-Employed
+129,18,Male,74078,Bachelor,Single,Self-Employed
+130,52,Female,108832,Master,Married,Employed
+131,54,Female,81293,Master,Single,Self-Employed
+132,64,Male,108781,Bachelor,Divorced,Self-Employed
+133,31,Male,90403,Master,Married,Employed
+134,20,Male,59124,High School,Divorced,Unemployed
+135,18,Male,73919,High School,Married,Unemployed
+136,22,Female,65247,Bachelor,Divorced,Unemployed
+137,43,Female,92752,PhD,Single,Employed
+138,31,Female,86573,Bachelor,Single,Self-Employed
+139,56,Female,89101,Bachelor,Single,Unemployed
+140,44,Female,56646,PhD,Married,Unemployed
+141,26,Female,53049,PhD,Single,Employed
+142,32,Male,109605,PhD,Married,Unemployed
+143,32,Female,98385,High School,Single,Employed
+144,43,Male,70158,Master,Single,Self-Employed
+145,59,Male,95417,High School,Married,Employed
+146,30,Female,53289,Master,Married,Employed
+147,49,Male,39823,High School,Single,Employed
+148,56,Female,90160,Master,Married,Employed
+149,49,Male,71975,High School,Single,Self-Employed
+150,21,Female,39540,PhD,Married,Self-Employed
+151,47,Male,46364,Bachelor,Divorced,Unemployed
+152,54,Female,34611,High School,Divorced,Self-Employed
+153,40,Female,57663,Master,Divorced,Self-Employed
+154,56,Female,81991,PhD,Divorced,Unemployed
+155,62,Female,87679,High School,Divorced,Self-Employed
+156,32,Female,60977,High School,Single,Employed
+157,60,Male,79115,PhD,Divorced,Employed
+158,46,Male,118223,High School,Divorced,Unemployed
+159,53,Male,90890,Bachelor,Divorced,Unemployed
+160,30,Female,96387,High School,Divorced,Unemployed
+161,49,Male,48071,Bachelor,Married,Employed
+162,24,Female,89275,Bachelor,Single,Self-Employed
+163,39,Female,102369,PhD,Divorced,Employed
+164,45,Male,41938,High School,Divorced,Unemployed
+165,19,Male,65195,PhD,Divorced,Self-Employed
+166,59,Female,34000,High School,Single,Self-Employed
+167,62,Male,100588,High School,Married,Employed
+168,23,Female,68304,Master,Single,Unemployed
+169,45,Female,99449,High School,Married,Employed
+170,45,Female,112986,PhD,Divorced,Self-Employed
+171,61,Female,119643,Bachelor,Divorced,Employed
+172,61,Female,50764,High School,Single,Employed
+173,37,Male,116027,Master,Single,Unemployed
+174,47,Male,68494,PhD,Married,Unemployed
+175,28,Female,33373,High School,Married,Self-Employed
+176,45,Female,42161,PhD,Single,Employed
+177,42,Male,57350,Master,Married,Employed
+178,56,Male,55351,Master,Single,Employed
+179,50,Female,118668,PhD,Married,Self-Employed
+180,18,Male,45305,High School,Single,Self-Employed
+181,44,Female,105353,Bachelor,Single,Unemployed
+182,30,Male,106797,Master,Single,Unemployed
+183,58,Female,95953,High School,Married,Unemployed
+184,20,Male,87458,High School,Married,Employed
+185,56,Female,50358,Bachelor,Married,Employed
+186,23,Male,33267,Master,Single,Unemployed
+187,25,Male,112745,Master,Married,Employed
+188,44,Female,119588,High School,Married,Unemployed
+189,26,Male,68513,High School,Single,Self-Employed
+190,54,Female,56092,Bachelor,Divorced,Unemployed
+191,50,Male,41338,Bachelor,Single,Self-Employed
+192,59,Female,30412,Master,Married,Employed
+193,61,Male,37543,PhD,Single,Unemployed
+194,41,Female,63496,Master,Divorced,Employed
+195,32,Male,90692,High School,Single,Self-Employed
+196,49,Female,119084,Master,Married,Self-Employed
+197,49,Male,74425,PhD,Divorced,Self-Employed
+198,41,Female,68756,Bachelor,Married,Employed
+199,58,Female,48888,PhD,Divorced,Employed
+200,29,Female,65735,PhD,Divorced,Employed
